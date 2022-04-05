@@ -1,2 +1,1 @@
-# fractal_tree
-This is a representation of fractal trees in Python
+@semihAkkoc gave me a homework around 6 months ago, I finished it now :)
